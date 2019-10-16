@@ -1,0 +1,2 @@
+# goal
+GO Automatic Loader
